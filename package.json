@@ -1,0 +1,11 @@
+{
+  "name": "QuizMaster-root",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.12"
+  }
+}
